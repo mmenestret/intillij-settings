@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping pattern="App" type="Scala" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
     </extensionMap>
   </component>
 </application>
