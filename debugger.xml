@@ -1,6 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -84,9 +83,11 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-          <stepping-filters>
-            <stepping-filter url-pattern="*fastopt.js" />
-          </stepping-filters>
+        </configuration>
+      </debugger>
+      <debugger id="kotlin_debugger">
+        <configuration>
+          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
