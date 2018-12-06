@@ -2,14 +2,36 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/pro/laposte/cds.bigdata.laposte/src/pipeline/topic-lag-watcher/src/main/scala/fr/laposte/ktopic/watcher/Main.scala" timestamp="1544105183613">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="39" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdChhOiBJbnQsIGI6IEludCk6IFN0cmluZyA9ID8/Pwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdChhOiBJbnQsIGI6IEludCkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdChhOiBJbnQsIGI6IEludCk6IFN0cmluZyA9ID8/Pwo=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
