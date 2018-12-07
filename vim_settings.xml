@@ -3,8 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/app/Main.scala" timestamp="1544182221672">
-        <mark key="[" line="23" column="10" />
+      <file name="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/Impl/UserImpl.scala" timestamp="1544197973469">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="79" />
+        <mark key="^" line="34" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/User.scala" timestamp="1544196559997">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/app/Main.scala" timestamp="1544196459097">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="23" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/pro/laposte/cds.bigdata.laposte/src/pipeline/topic-lag-watcher/src/main/scala/fr/laposte/ktopic/watcher/Main.scala" timestamp="1544105183613">
         <mark key="[" line="17" column="0" />
@@ -13,28 +25,75 @@
         <mark key="^" line="16" column="39" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="5" column="25" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/User.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/User.scala" />
+      <jump line="2" column="32" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/Impl/UserImpl.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/Impl/UserImpl.scala" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/Impl/UserImpl.scala" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdChhOiBJbnQsIGI6IEludCk6IFN0cmluZyA9ID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgbGluZXMgICAgICAgICAgICAgICAgICAgPC0gRmlsZVN5c3RlbUhhbmRsZXJbVGFza10ucmVhZFRleHRGcm9tRmlsZShmaWxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdChhOiBJbnQsIGI6IEludCkK</text>
+        <text encoding="base64">ICAgICAgaXJpc1JlZmVyZW50aWFscyAgICAgICAgPC0gbGluZXMudHJhdmVyc2UocGFyc2VMaW5lKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgdGVzdChhOiBJbnQsIGI6IEludCk6IFN0cmluZyA9ID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgbGluZXMgICAgICAgICAgICAgICAgICAgPC0gRmlsZVN5c3RlbUhhbmRsZXJbVGFza10ucmVhZFRleHRGcm9tRmlsZShmaWxlKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbGluZXMgICAgICAgICAgICAgICAgICAgPC0gcmVhZFRleHRGcm9tRmlsZShmaWxlKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgdGVzdChhOiBJbnQsIGI6IEludCkK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>FileSystemHandler</text>
+      </register>
+      <register name="/" type="4">
+        <text>fh</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>fh</last-search>
+      <last-offset />
+      <last-pattern>fh</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>fh</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
