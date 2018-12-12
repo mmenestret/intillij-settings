@@ -18,16 +18,17 @@
         <mark key="." line="139" column="11" />
         <mark key="^" line="139" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/interpreter/TaskUserDefinedAction.scala" timestamp="1544622521370">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="5" />
+        <mark key="^" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/pro/laposte/cds.bigdata.laposte/build.sbt" timestamp="1544620226672">
         <mark key="[" line="450" column="0" />
         <mark key="]" line="450" column="0" />
         <mark key="." line="450" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/app/Main.scala" timestamp="1544196459097">
-        <mark key="[" line="58" column="22" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="23" />
-        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/pro/laposte/cds.bigdata.laposte/src/pipeline/topic-lag-watcher/src/main/scala/fr/laposte/ktopic/watcher/Main.scala" timestamp="1544105183613">
         <mark key="^" line="16" column="39" />
@@ -46,40 +47,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/Impl/UserImpl.scala" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/algebra/Impl/UserImpl.scala" />
       <jump line="459" column="8" filename="$USER_HOME$/Projects/pro/laposte/cds.bigdata.laposte/build.sbt" />
+      <jump line="29" column="36" filename="$USER_HOME$/Projects/pro/oschultz-mlaas-services/services/watcher-api/src/main/scala/interpreter/TaskUserDefinedAction.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>monix</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIRUFEXD4=</text>
+        <text encoding="base64">XDxyaXNSZWZlcmVudGlhbHN0b0thZmthXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGluZXMgICAgICAgICAgICAgICAgICAgPC0gRmlsZVN5c3RlbUhhbmRsZXJbVGFza10ucmVhZFRleHRGcm9tRmlsZShmaWxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdGFibGUK</text>
+        <text encoding="base64">ICAgICAgaXJpc1JlZmVyZW50aWFsc3RvS2Fma2EgPC0gcHVyZVtUYXNrXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgLmRlcGVuZHNPbihzY2hlbWFBcGksIHNjaGVtYUFwaSAlICJjb21waWxlLT5jb21waWxlO3Rlc3QtPnRlc3QiLCBidXNpbmVzc09iamVjdEFwaSAlICJjb21waWxlLT5jb21waWxlO3Rlc3QtPnRlc3QiKQo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBzdGFibGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzY2hlbWFBcGksCiAgICBwYXRjaEFwaSAlICJjb21waWxlLT5jb21waWxlO3Rlc3QtPnRlc3QiLAo9PT09PT09Cj4+Pj4+Pj4gc3RhYmxlCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgLmRlcGVuZHNPbihzY2hlbWFBcGksIHNjaGVtYUFwaSAlICJjb21waWxlLT5jb21waWxlO3Rlc3QtPnRlc3QiLCBidXNpbmVzc09iamVjdEFwaSAlICJjb21waWxlLT5jb21waWxlO3Rlc3QtPnRlc3QiKQo9PT09PT09Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHN0YWJsZQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzY2hlbWFBcGksCiAgICBwYXRjaEFwaSAlICJjb21waWxlLT5jb21waWxlO3Rlc3QtPnRlc3QiLAo9PT09PT09Cj4+Pj4+Pj4gc3RhYmxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIHNjaGVtYUFwaSwKICAgICAgcGF0Y2hBcGkgJSAiY29tcGlsZS0+Y29tcGlsZTt0ZXN0LT50ZXN0IiwKPT09PT09PQo+Pj4+Pj4+IHN0YWJsZQo=</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IHN0YWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIHNjaGVtYUFwaSwKICAgICAgcGF0Y2hBcGkgJSAiY29tcGlsZS0+Y29tcGlsZTt0ZXN0LT50ZXN0IiwKPT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIHNjaGVtYUFwaSwKICAgICAgcGF0Y2hBcGkgJSAiY29tcGlsZS0+Y29tcGlsZTt0ZXN0LT50ZXN0IiwKPT09PT09PQo+Pj4+Pj4+IHN0YWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIHNjaGVtYUFwaSwKICAgICAgcGF0Y2hBcGkgJSAiY29tcGlsZS0+Y29tcGlsZTt0ZXN0LT50ZXN0IiwKPT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
@@ -88,13 +90,13 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIRUFEXD4=</last-search>
+      <last-search encoding="base64">XDxyaXNSZWZlcmVudGlhbHN0b0thZmthXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIRUFEXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyaXNSZWZlcmVudGlhbHN0b0thZmthXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -102,11 +104,13 @@
       <history-search>
         <entry>fh</entry>
         <entry encoding="base64">XDxIRUFEXD4=</entry>
+        <entry encoding="base64">XDxyaXNSZWZlcmVudGlhbHN0b0thZmthXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>re</entry>
         <entry>reg</entry>
+        <entry>z</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,6 +133,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
