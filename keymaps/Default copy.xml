@@ -1,6 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="ExpressionTypeInfo" />
   <action id="Scala.ShowImplicitArguments" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
