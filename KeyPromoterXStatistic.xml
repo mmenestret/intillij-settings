@@ -46,7 +46,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'App'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MonadExample'">
@@ -78,7 +78,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Maj+F10'</ShortCut>
           <Description>Run 'ScalaTests in 'scala...'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
