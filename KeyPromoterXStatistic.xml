@@ -49,6 +49,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MonadExample'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+F10'</ShortCut>
+          <Description>Run 'MonadExample'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RoutesSpec.authentic...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
