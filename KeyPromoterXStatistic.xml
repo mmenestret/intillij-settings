@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild Module 'copredict-ai'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Maj+F9'</ShortCut>
+          <Description>Rebuild Module 'copredict-ai'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'App.scala'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
