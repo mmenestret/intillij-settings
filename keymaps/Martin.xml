@@ -1,4 +1,5 @@
 <keymap version="1" name="Martin" parent="$default">
+  <action id="ChangesView.Diff" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -6,16 +7,22 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.DeleteRows">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
@@ -24,6 +31,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="ResizeToolWindowDown" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -33,4 +41,10 @@
     <keyboard-shortcut first-keystroke="alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
