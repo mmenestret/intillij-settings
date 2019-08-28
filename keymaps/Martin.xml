@@ -13,12 +13,15 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="DatabaseView.CopyAction" />
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="ExpressionTypeInfo" />
@@ -26,11 +29,21 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="GuiDesigner.Duplicate" />
   <action id="JumpToLastChange" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
@@ -46,5 +59,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="VcsShowNextChangeMarker" />
+  <action id="VcsShowPrevChangeMarker" />
   <action id="openAssertEqualsDiff" />
 </keymap>
